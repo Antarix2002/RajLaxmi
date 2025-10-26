@@ -1,0 +1,13 @@
+<!-- resources/views/errors/404.blade.php -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page Not Found</title>
+</head>
+<body>
+    <h1>Oops! Page not found.</h1>
+    <p>Sorry, but the page you were looking for could not be found.</p>
+    <a href="https://winverseonlinebook.com">Return to Home</a>
+</body>
+</html>
